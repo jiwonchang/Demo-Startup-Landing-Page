@@ -1,0 +1,35 @@
+body {
+	/*background: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/Y2S3rB2/beautiful-blue-diamond-background-loopable-animation_v1xb3kuaeg__F0000.png);*/
+	/*background: url(http://www.coolwallpapers.me/download/776/Abstract_Diamond_Shape.png/);*/
+	/*background: url(https://www.desktopbackground.org/p/2014/08/19/811548_full-hd-1920x1080-diamond-wallpapers-and-desktop-backgrounds_1920x1080_h.jpg);*/
+	/*background: url(https://wallpapercave.com/wp/X9cUy04.jpg);*/
+	background: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/bNjlZZF/abstract-technology-plexus-stylish-dynamic-digital-background-geometrical-shape-with-triangle-particles-futuristic-wallpaper_rlacvc67g_thumbnail-full01.png);
+	background-size: cover;
+	background-position: center;
+	font-family: Lato;
+	color: white;
+}
+
+html {
+	height: 100%;
+}
+
+#content {
+	/*padding-top: 25%;*/
+	padding-top: 22%;
+	text-align: center;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+h1 {
+	font-weight: 700;
+	font-size: 5em;
+}
+
+hr {
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
